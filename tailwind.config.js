@@ -14,7 +14,7 @@ module.exports = {
     },
     fontFamily: {
       "rubik": ['"Rubik", sans-serif'],
-      "montserrats": ['"Montserrat", sans-serif'],
+      "montserrat": ['"Montserrat", sans-serif'],
     },
   },
   plugins: [],

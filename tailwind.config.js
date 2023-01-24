@@ -1,4 +1,4 @@
-/* @type {import('tailwindcss').Config} */
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
@@ -6,15 +6,15 @@ module.exports = {
       colors: {
         "light-magenta": "#DF00FF",
         "dark-magenta": "#BF00FF",
-        violet: "#8A00FF",
-        black: "#000000",
-        grey: "#1C1C1C",
-        white: "FFFFFF",
+        "violet": "#8A00FF",
+        "black": "#000000",
+        "grey": "#1C1C1C",
+        "white": "FFFFFF",
       },
     },
     fontFamily: {
-      Rubik: ["'Rubik', sans-serif"],
-      Montserrar: ["'Montserrat', sans-serif"],
+      "rubik": ['"Rubik", sans-serif'],
+      "montserrats": ['"Montserrat", sans-serif'],
     },
   },
   plugins: [],

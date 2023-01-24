@@ -13,8 +13,8 @@ module.exports = {
       },
     },
     fontFamily: {
-      "rubik": ['"Rubik", sans-serif'],
-      "montserrat": ['"Montserrat", sans-serif'],
+      "Rubik": ['"Rubik", sans-serif'],
+      "Montserrat": ['"Montserrat", sans-serif'],
     },
   },
   plugins: [],
